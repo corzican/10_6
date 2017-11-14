@@ -1,7 +1,9 @@
 # 10_6
 
-## A core tabletop rpg engine that uses ten-sided and six-sided dice for resolution. - CC-BY-4.0
+## 25 word pitch - Quick action, teamwork
   
 What the 10_6 engine should accomplish:
   
 * 
+
+License - CC-BY-4.0
